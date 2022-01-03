@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **IOT FW developments**
 
-- 👨‍💻 All of my projects are available at [chleba.org](chleba.org)
+- 👨‍💻 All of my projects are available at [http://chleba.org](chleba.org)
 
 - 💬 Ask me about **Game & Tools Dev**
 
 - 📫 How to reach me **chlebik@gmail.com**
 
-- 📄 Know about my experiences [chleba.org/cv](chleba.org/cv)
+- 📄 Know about my experiences [http://chleba.org/cv](chleba.org/cv)
 
 - ⚡ Fun fact **I love 3D Printing**
 
