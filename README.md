@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **House Automations, Electron Audio Assistant & DIY Smart Things**
 
-- 🌱 I’m currently learning **Home Assistant, React and TypeScript**
+- 🌱 I’m currently learning **MicroPython, Networking (SNMP, UDP, TCP/IP), MODBUS, etc.**
 
 - 👯 I’m looking to collaborate on **IOT FW developments**
 
